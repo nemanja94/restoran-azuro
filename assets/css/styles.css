@@ -29,7 +29,7 @@ header p {
     font-size: clamp(1.2rem, 2.5vw, 1.5rem);
 }
 nav {
-    background: #2c3e50;
+    background: #BFAF9A;
     display: flex;
     justify-content: center;
     flex-wrap: wrap;
@@ -56,7 +56,7 @@ nav a:hover {
 }
 .section h2 {
     text-align: center;
-    color: #2c3e50;
+    color: #3E3C36;
     margin-bottom: 1em;
 }
 .section p {
@@ -81,13 +81,13 @@ nav a:hover {
     transform: scale(1.03);
 }
 .contact {
-    background: #2c3e50;
+    background: #BFAF9A;
     color: white;
     text-align: center;
     padding: 3em 1em;
 }
 .contact a {
-    color: #f1c40f;
+    color: #3E3C36;
     text-decoration: none;
     font-size: 1.1em;
 }
@@ -97,7 +97,7 @@ nav a:hover {
 footer {
     text-align: center;
     padding: 1em;
-    background: #1a252f;
+    background: #3E3C36;
     color: #ccc;
 }
 #topBtn {
@@ -105,8 +105,8 @@ footer {
     position: fixed;
     bottom: 30px;
     right: 30px;
-    background-color: #f1c40f;
-    color: #2c3e50;
+    background-color: #3E3C36;
+    color: #f1c40f;
     border: none;
     border-radius: 50%;
     width: 50px;
