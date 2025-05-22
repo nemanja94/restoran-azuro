@@ -118,6 +118,7 @@ footer {
 }
 #topBtn:hover {
     background-color: #e1b20e;
+    color: #3E3C36;
 }
 @keyframes fadeIn {
     from {
